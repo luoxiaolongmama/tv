@@ -75,7 +75,8 @@
         "name": "片库",
         "type": 0,
         "api": "https://pianku.wang/api.php/provide/vod/at/xml",
-        "playUrl": "https://api.jhdyw.vip/?url="
+        "playUrl": "https://api.jhdyw.vip/?url=",
+        "categories": []
     },
     {
         "key": "BL解析",
@@ -89,7 +90,8 @@
         "name": "速影",
         "type": 0,
         "api": "https://速影128.xyz/inc/api.php",
-        "playUrl": ""
+        "playUrl": "",
+        "categories": []
     },
     {
       "key": "快播云",
@@ -120,14 +122,16 @@
       "name": "605资源",
       "type": 0,
       "api": "http://www.605zy.co/inc/605m3u8.php",
-      "playUrl": ""
+      "playUrl": "",
+      "categories": []
     },
     {
       "key": "电牛资源",
       "name": "电牛资源",
       "type": 0,
       "api": "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
-      "playUrl": ""
+      "playUrl": "",
+      "categories": []
     },
     {
       "key": "柚子资源",
